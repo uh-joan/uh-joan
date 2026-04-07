@@ -91,8 +91,7 @@ Claude Code skills for transforming interview transcripts into empathy maps, per
 
 ## 🌍 Location
 
-🇬🇧 **London, United Kingdom** (currently)
-🇪🇸 **Barcelona, Spain** (originally)
+**London, United Kingdom**
 
 ## 💡 Interests
 
