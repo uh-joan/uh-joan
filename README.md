@@ -14,7 +14,6 @@ I bridge design leadership and technical innovation in Life Sciences, combining 
 ### Machine Learning & Research Automation
 - [Clinical Trial Outcome Predictor](https://github.com/uh-joan/ct-outcome-predictor) - 0.926 AUC-ROC on held-out Phase 2/3 trials, built using autonomous experimentation
 - [Pharma Agentic OS](https://github.com/uh-joan/pharma-agentic-os) - Agent orchestration for pharmaceutical workflows
-- [Notebook Toolrow](https://github.com/uh-joan/notebook_toolrow) - Open-source alternative to NotebookLM/Perplexity
 
 ### UX Research Automation
 - [UX Research Skills](https://github.com/uh-joan/ux-research-skills) - Claude Code skills for automating qualitative research
