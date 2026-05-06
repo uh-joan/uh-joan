@@ -32,7 +32,7 @@ Languages: Python, JavaScript/Node.js
 
 AI/ML: Claude AI, Scikit-learn, Model Context Protocol (MCP)
 
-Pharma/Bio: Cortellis, DrugBank, FDA/EMA APIs, NCBI, UniProt, PubMed
+Pharma/Bio: Cortellis, FDA/EMA APIs, NCBI, UniProt, PubMed
 
 Design: Figma API, Design Systems, Nielsen Norman Group methodology
 
@@ -41,7 +41,7 @@ Data: Clinical trials data, genomics, protein structures, regulatory databases
 ## Organizations
 
 [OpenPharma](https://github.com/openpharma-org) - Open-source Model Context Protocol servers for pharmaceutical intelligence. 50+ specialized data sources spanning:
-- Drug & Regulatory: DrugBank (17,430+ drugs), FDA, EMA
+- Regulatory: FDA, EMA
 - Genomics & Variants: NCBI, ClinVar, dbSNP
 - Proteomics: UniProt, PDB, AlphaFold
 - Pathways & Ontology: Reactome, Gene Ontology
