@@ -11,14 +11,17 @@ I lead UX organizations and personally build the AI systems that multiply them. 
 ### Pharma Intelligence & AI Systems
 - [OpenPharma](https://github.com/openpharma-org) - 50+ specialized MCP servers providing AI agents with pharmaceutical and biomedical data access
 - [BioClaw](https://github.com/uh-joan/bioclaw) - Containerized biomedical AI assistant bundling all OpenPharma servers
-- [Cortellis CLI](https://github.com/uh-joan/cortellis-cli) - Natural language interface to the entire Cortellis intelligence platform
+- [Cortellis CLI](https://github.com/uh-joan/cortellis-cli) - AI-native intelligence workbench: 80+ commands across 13 data domains, deterministic multi-step analysis skills, and a self-building wiki knowledge base with a knowledge graph
 
 ### Machine Learning & Research Automation
 - [Clinical Trial Outcome Predictor](https://github.com/uh-joan/ct-outcome-predictor) - 0.926 AUC-ROC on held-out Phase 2/3 trials, built using autonomous experimentation
 - [Pharma Agentic OS](https://github.com/uh-joan/pharma-agentic-os) - Agent orchestration for pharmaceutical workflows
 
 ### UX Research Automation
-- [UX Research Skills](https://github.com/uh-joan/ux-research-skills) - Claude Code skills for automating qualitative research
+- [UX Research Skills](https://github.com/uh-joan/ux-research-skills) - The full qualitative research pipeline as AI skills: interview transcripts to empathy maps, journeys, personas, JTBD analysis, and scored AI opportunities. Runs in Claude Code or GitHub Copilot
+
+### Product Craft
+- [Morra](https://github.com/uh-joan/morra-app) - A browser game of the Mediterranean finger-and-shout game, in Catalan: computer vision counts your fingers, speech recognition hears your call, and the AI rival's move is cryptographically committed before you throw. Play at [morra.joans.cat](https://morra.joans.cat)
 
 ## Current Focus
 
