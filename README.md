@@ -2,7 +2,9 @@
 
 Director of UX Design @ Clarivate | Founder @ OpenPharma | Ph.D. in Human-Computer Interaction
 
-I bridge design leadership and technical innovation in Life Sciences, combining 15+ years of UX expertise with deep work in AI-powered drug discovery, clinical research automation, and biomedical data infrastructure.
+I lead UX organizations and personally build the AI systems that multiply them. 15+ years of UX expertise with deep work in AI-powered drug discovery, clinical research automation, and biomedical data infrastructure.
+
+**Portfolio: [joans.cat](https://joans.cat)** · the vision, the playbook, five case studies, and the lab
 
 ## What I Build
 
@@ -50,7 +52,7 @@ Data: Clinical trials data, genomics, protein structures, regulatory databases
 
 ## Experience
 
-Clarivate (2018–Present, 6+ years)
+Clarivate (2018–Present)
 Director, Principal, Senior UX Designer - Leading UX transformation for Life Sciences and Healthcare products
 
 Previously: PatSnap, Retechnica (Product Lead), University of Hertfordshire (Research Fellow), Birkbeck (Postdoc in Organisational Psychology)
